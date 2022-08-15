@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🛠 My fancy badge area
+python golang postgres redis aws k8s terraform html javascript css vue.js webpack django docker swagger fastapi asyncio git github pycharm prometheus jupyter pandas kafka conda homeassistant openstreetmap raspberry pi stripe latex
+
 <!--
 **marselzaripov/marselzaripov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
