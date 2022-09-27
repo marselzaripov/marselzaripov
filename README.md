@@ -31,6 +31,9 @@
 
 [![developermars0@gmail.com](https://img.shields.io/badge/developermars0@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:developermars0@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mars-developer/) 
 
+[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
+
+
 <!--
 **marselzaripov/marselzaripov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
